@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_tittle_login">LOG IN</string>
+    <string name="hint_user_login">User name</string>
+    <string name="hint_password_login">Password</string>
+    <string name="txt_button_login">ACEPT</string>
+    <string name="txt_toast_login_error">Error - Please Check User and Password</string>
+    <string name="txt_toast_login_correct">Loading Menu</string>
+    <string name="txt_actionMessage_menu">Here you can enter and edit your contacts please select the right option.</string>
+    <string name="app_menu_name">Contacts Menu</string>
+    <string name="app_addcontact_name">Add Contact</string>
+    <string name="hint_bday">Birth Date</string>
+    <string name="hint_webpage">Web page</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_cellphone">Celphone Number</string>
+    <string name="hint_name">Name</string>
+    <string name="btn_acept">Acept</string>
+    <string name="btn_cancel_addcontact">Cancel</string>
+    <string name="btn_show_menu">Show All Contacts</string>
+    <string name="btn_modify_menu">Modify Contact</string>
+    <string name="btn_delete_menu">Delete Contact</string>
+    <string name="hint_notes">Notes</string>
+    <string name="hint_rb_family">Family</string>
+    <string name="hint_rb_following">Following</string>
+    <string name="hint_rb_friends">Friends</string>
+    <string name="hint_rb_work">Work</string>
+    <string name="app_contactdetails_name">Contact Detail</string>
+    <string name="btn_newuser_login">New User</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="txt_name">Name:</string>
+    <string name="txt_cellphone">Cellphone:</string>
+    <string name="txt_phone">Phone:</string>
+    <string name="txt_address">Address:</string>
+    <string name="txt_email">E-mail:</string>
+    <string name="txt_bday">Birth Date:</string>
+    <string name="txt_cgroup">Group:</string>
+    <string name="app_deletecontact_name">Delete Contact</string>
+    <string name="app_newuser_name">New User</string>
+    <string name="app_modifycontact_name">Modify Contact</string>
+</resources>
